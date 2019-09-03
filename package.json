@@ -38,7 +38,7 @@
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.14.3",
-    "nodemon": "^1.19.1",
+    "nodemon": "^1.19.2",
     "supertest": "^4.0.2",
     "ts-node": "^8.3.0",
     "typescript": "^3.6.2"
