@@ -29,7 +29,7 @@
     "@types/node": "^12.7.4",
     "@types/node-fetch": "^2.5.0",
     "@types/supertest": "^2.0.8",
-    "@typescript-eslint/eslint-plugin": "^2.1.0",
+    "@typescript-eslint/eslint-plugin": "^2.2.0",
     "@typescript-eslint/parser": "^2.1.0",
     "ava": "^2.3.0",
     "eslint": "^6.3.0",
