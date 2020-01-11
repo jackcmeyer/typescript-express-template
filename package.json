@@ -40,7 +40,7 @@
     "eslint-plugin-react": "^7.17.0",
     "nodemon": "^2.0.2",
     "supertest": "^4.0.2",
-    "ts-node": "^8.5.4",
+    "ts-node": "^8.6.1",
     "typescript": "^3.7.4"
   },
   "ava": {
